@@ -1,4 +1,4 @@
-## Hello there! 🤺
+# Hello there! 🤺
 
 <!--
 **Arya-Mehta/Arya-Mehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me 🏎️
+## About Me 🏎️
 
 Keen learner, still finding my way through the tech world. Interested and intrigued in the field of Machine Learning (ML).
 
