@@ -43,8 +43,11 @@ Keen learner, still finding my way through the tech world. Interested and intrig
 ## Skills 🎤
 
 - **Programming Languages**: Python, Java, C
-- **ML Frameworks**: TensorFlow, Scikit-Learn
+- **ML Frameworks**: TensorFlow, Scikit-Learn, PyTorch, Keras
 - **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Machine Learning**: Deep Learning, NLP, ComputerVision
+- **Tools**: Azure AI , Azure OpenAI
+
 
 ## Contact 𝌕
 
