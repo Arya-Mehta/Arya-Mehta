@@ -22,6 +22,7 @@ Keen learner, still finding my way through the tech world. Interested and intrig
 
 ## Projects Worked on 👷🏽
 
+- [Implementing Adam from scratch](https://github.com/Arya-Mehta/Adam.git) - A custom implementation of Adam from scratch, in PyTorch, using the paper “Adam: A Method for Stochastic Optimization” by D.P. Kingma and J. Ba, ICLR 2015. as a reference.
 - [DeepFake Video Detector](https://github.com/krishnasharma7/Deepfake-AI-Hackathon.git) - A model that uses tensorflow models to detect whether or not a video is Deepfaked or not.
 - [Fashion Recommender System](https://github.com/MacaroniMutton/Fashion_Recommender.git) - An e-coomerce website for Fashion Products with a recommender system using Nearest Neighbours.
 - [Persona-Find](https://github.com/krishnasharma7/Mini-Project.git) - A personalised text summarizer that learns over time, user summary preferences and outputs summaries accordingly.
