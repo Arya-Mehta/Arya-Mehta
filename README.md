@@ -22,6 +22,7 @@ Keen learner, still finding my way through the tech world. Interested and intrig
 
 ## Projects Worked on 👷🏽
 
+- [Image Super Resolution](https://github.com/Arya-Mehta/SuperResolution.git) - Reimplementing the SRCNN model for image super-resolution based on the paper "Image Super-Resolution Using Deep Convolutional Networks" by Chao Dong et al. 
 - [Implementing Adam from scratch](https://github.com/Arya-Mehta/Adam.git) - A custom implementation of Adam from scratch, in PyTorch, using the paper “Adam: A Method for Stochastic Optimization” by D.P. Kingma and J. Ba, ICLR 2015. as a reference.
 - [DeepFake Video Detector](https://github.com/krishnasharma7/Deepfake-AI-Hackathon.git) - A model that uses tensorflow models to detect whether or not a video is Deepfaked or not.
 - [Fashion Recommender System](https://github.com/MacaroniMutton/Fashion_Recommender.git) - An e-coomerce website for Fashion Products with a recommender system using Nearest Neighbours.
@@ -30,10 +31,9 @@ Keen learner, still finding my way through the tech world. Interested and intrig
 ## Interests 🔭
 
 - Machine Learning
-- Data Science
+- Computer Vision
 - Artificial Intelligence
 - Programming
-- Technology Trends
 
 ## Goals 🥅
 
